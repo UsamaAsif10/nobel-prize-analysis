@@ -4,7 +4,9 @@ Analysis of Nobel Prize winner data from 1901 to 2023 using Python and Pandas.
 
 ## Dataset
 
-The dataset is from the Nobel Prize API and contains all prize winners from 1901 to 2023. It includes the following columns:
+`nobel.csv` — Nobel Prize winner data from 1901 to 2023 (sourced from [DataCamp](https://www.datacamp.com)). Dataset not included due to licensing — download it from the DataCamp project workspace (**"A Visual History of Nobel Prize Winners"**) or from [Kaggle](https://www.kaggle.com/datasets/nobelfoundation/nobel-laureates).
+
+It includes the following columns:
 
 | Column | Description |
 |--------|-------------|
@@ -55,7 +57,7 @@ The dataset is from the Nobel Prize API and contains all prize winners from 1901
 ## How to Run
 
 1. Clone the repo
-2. Place `nobel.csv` in the `data/` folder
+2. Download `nobel.csv` from DataCamp or Kaggle and place it in the same folder
 3. Run the script:
 
 ```bash
